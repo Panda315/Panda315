@@ -1,4 +1,4 @@
-<h3 align = "center"> Hi there, I'm Prashant Shrestha 👋 </h3>
+<h2 align = "center"> Hi there, I'm Prashant Shrestha 👋 </h2>
 <h3 align = "center"> I'm currently a student learning his way!!! </h3>
 
 ---
@@ -10,15 +10,20 @@
 - ⚽ I love playing sports.
 
 
+---
+
+
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Prashant_Shrestha-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Prashant-Shrestha)](https://www.linkedin.com/in/prashant-shrestha-a55bb8226/)
 [![Facebook Badge](https://img.shields.io/badge/-Shrestha_Prashant_Newar-blue?style=square&logo=Facebook&logoColor=white&link=https://facebook.com/shresthaprashantnewar)](https://www.facebook.com/james.shrestha.96155/)
-[![Twitter Badge](https://img.shields.io/badge/-Prashantstha315-blue?style=square&logo=twitter&logoColor=white&link=https://twitter.com/Prashantstha315)](https://twitter.com/prashantstha315/)
-[![Twitter Badge](https://img.shields.io/badge/-prashantstha315-blue?style=square&logo=instagram&logoColor=white&link=https://instagram.com/Prashantstha315)](https://www.instagram.com/prashantstha315/)
+[![Twitter Badge](https://img.shields.io/badge/-Prashantstha315-lightblue?style=square&logo=twitter&logoColor=white&link=https://twitter.com/Prashantstha315)](https://twitter.com/prashantstha315/)
+[![Twitter Badge](https://img.shields.io/badge/-prashantstha315-red?style=square&logo=instagram&logoColor=white&link=https://instagram.com/Prashantstha315)](https://www.instagram.com/prashantstha315/)
 [![Gmail Badge](https://img.shields.io/badge/prashantstha1110@gmail.com-white?style=square&logo=Gmail&logoColor=&link=mailto:prashantstha1110@gmail.com)](mailto:prashantstha1110@gmail.com)
 
-<br />
+
+---
+
 
 ### Languages and Tools:
 
@@ -30,5 +35,4 @@
 [<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />]
 [<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/dart/dart.png" />]
 
-<br />
-<br />
+<br>
