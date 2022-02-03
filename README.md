@@ -1,6 +1,7 @@
 <h3 align = "center"> Hi there, I'm Prashant Shrestha 👋 </h3>
-
 <h3 align = "center"> I'm currently a student learning his way!!! </h3>
+
+---
 
 - 🏠 I'm from Dharan, Nepal.
 - 💻 I'm currently studying Computer Science at Kathmandu University 🏫.
@@ -11,9 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Panda315 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Prashant Shrestha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Prashantstha_1110 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-Prashant_Shrestha-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Prashant-Shrestha)](https://www.linkedin.com/in/prashant-shrestha-a55bb8226/)
+[![Facebook Badge](https://img.shields.io/badge/-Shrestha_Prashant_Newar-blue?style=square&logo=Facebook&logoColor=white&link=https://facebook.com/shresthaprashantnewar)](https://www.facebook.com/james.shrestha.96155/)
+[![Twitter Badge](https://img.shields.io/badge/-Prashantstha315-blue?style=square&logo=twitter&logoColor=white&link=https://twitter.com/Prashantstha315)](https://twitter.com/prashantstha315/)
+[![Twitter Badge](https://img.shields.io/badge/-prashantstha315-blue?style=square&logo=instagram&logoColor=white&link=https://instagram.com/Prashantstha315)](https://www.instagram.com/prashantstha315/)
+[![Gmail Badge](https://img.shields.io/badge/prashantstha1110@gmail.com-white?style=square&logo=Gmail&logoColor=&link=mailto:prashantstha1110@gmail.com)](mailto:prashantstha1110@gmail.com)
 
 <br />
 
