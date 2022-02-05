@@ -43,8 +43,8 @@
 ### Stats:
 <p>
 <a href="https://github.com/panda315">
-  <img align = "center" height="160em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=panda315&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>  
-  <img align="center" height="160em"  width="480em" src="https://github-readme-streak-stats.herokuapp.com/?user=Panda315&theme=algolia&hide_border=false&layout=compact"/>
+  <img align = "left" height="160em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=panda315&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>  
+  <img align="left" height="160em"  width="480em" src="https://github-readme-streak-stats.herokuapp.com/?user=Panda315&theme=algolia&hide_border=false&layout=compact"/>
 </a>
 </p>
 <p>
