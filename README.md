@@ -5,7 +5,7 @@
 
 - 🏠 I'm from Dharan, Nepal 🇳🇵.
 - 💻 I'm currently studying Computer Science at [Kathmandu University](https://ku.edu.np) 🏫.
-- 🌱 I'm currently learning everything.
+- 🌱 I'm currently learning iOS Development.
 - 🙌 I'm looking to collabrate and contribute to open source projects.
 - ⚽ I love playing sports.
 
